@@ -1,3 +1,3 @@
 # Cuboid
 
-Visit here: https://aribbabar.github.io/cuboid/
+Visit here: https://cuboid-seven.vercel.app/
